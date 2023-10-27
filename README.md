@@ -2,4 +2,4 @@
 
 # The Array. Array cleaning. Removing duplicates from the Array.
 
-Using the forEach() method of Array.
+The function removeDuplicates(arr) takes an array arr and returns the array where the duplicates are removed, case-insensitive. Using the forEach() method of Array.
